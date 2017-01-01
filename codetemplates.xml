@@ -15,7 +15,7 @@
  * @author ${user}
  * @date ${date} ${time}
  */</template><template autoinsert="false" context="filecomment_context" deleted="false" description="Comment for created Java files" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.filecomment" name="filecomment">/**
- * Copyright©${year} www.jshuabo.com. all rights reserved.
+ * Copyright©${year} www.bauerwei.xyz. all rights reserved.
  *
  * @Title ${file_name}
  * @Prject ${project_name}
