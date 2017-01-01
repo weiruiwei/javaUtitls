@@ -6,7 +6,7 @@ public class StringUtils {
 	 * @Title isEmpty
 	 * @Description 
 	 * @param str
-	 * @return
+	 * @return if valuer is null or length <0 return true else false
 	 * @author bauer
 	 * @date 2017年1月1日 下午3:00:55
 	 */
@@ -19,4 +19,5 @@ public class StringUtils {
 		}
 		return false;
 	}
+	
 }
